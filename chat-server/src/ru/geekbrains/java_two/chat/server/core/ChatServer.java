@@ -11,7 +11,7 @@ import java.net.Socket;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Vector;
-
+//намудрил с репозиторием.
 public class ChatServer implements ServerSocketThreadListener, SocketThreadListener {
     private final DateFormat DATE_FORMAT = new SimpleDateFormat("HH:mm:ss: ");
     private final ChatServerListener listener;
