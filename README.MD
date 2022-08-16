@@ -14,3 +14,4 @@
 <li>Отправка сообщений в приват</li>
 </ol>
 
+![Screenshot_1.png](Screenshot_1.png)
